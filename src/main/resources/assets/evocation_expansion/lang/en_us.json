@@ -1,0 +1,23 @@
+{
+  "spell.evocation_expansion.disarm": "Disarm",
+  "spell.evocation_expansion.disarm.guide": "Fire a short-ranged gust that knocks the item from a creature's main hand.",
+  "spell.evocation_expansion.float": "Float",
+  "spell.evocation_expansion.float.guide": "Suspend yourself in the air for three seconds while retaining horizontal movement.",
+  "spell.evocation_expansion.uppercut": "Uppercut",
+  "spell.evocation_expansion.uppercut.guide": "Launch creatures directly ahead into the air and propel yourself upward, even while airborne.",
+  "spell.evocation_expansion.swing": "Swing",
+  "spell.evocation_expansion.swing.guide": "Fire a chain that anchors to terrain or creatures. Hold the cast to swing and release it to let go.",
+  "spell.evocation_expansion.hook_shot": "Hook Shot",
+  "spell.evocation_expansion.hook_shot.guide": "Pull yourself toward terrain or drag a struck creature toward you with an evoked chain.",
+  "spell.evocation_expansion.magic_fireball": "Magic Fireball",
+  "spell.evocation_expansion.magic_fireball.guide": "Launch a deflectable fireball that curves smoothly toward the nearest enemy.",
+  "spell.evocation_expansion.successive_flame_strike": "Successive Flame Strike",
+  "spell.evocation_expansion.successive_flame_strike.guide": "Wind up, then carve through enemies with five alternating flame strikes that carry you forward.",
+  "spell.evocation_expansion.arrow_storm": "Arrow Storm",
+  "spell.evocation_expansion.arrow_storm.guide": "Conjure a scattered formation of magic arrows behind you that surges forward in rapid waves.",
+  "death.attack.evocation_expansion.arrow_storm": "%1$s was pierced by %2$s's arrow storm.",
+  "spell.evocation_expansion.heavy_shadow_slash": "Heavy Shadow Slash",
+  "spell.evocation_expansion.heavy_shadow_slash.guide": "Charge a heavier shadow slash that crashes forward with greater force and a wider arc.",
+  "death.attack.evocation_expansion.heavy_shadow_slash": "%1$s was cleaved apart by %2$s's heavy shadow slash.",
+  "effect.evocation_expansion.floating": "Floating"
+}
